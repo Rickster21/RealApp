@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealApp</string>
+
+    <string name="widow">Black Widow</string>
+    <string name="agressive"> Agressive:NO </string>
+    <string name="common"> Common: YES </string>
+    <string name="deadly"> Deadly: NO </string>
+</resources>
